@@ -24,6 +24,8 @@
 }
 #paint{
     background-image: url('img/home.jpg');
+	background-size: cover;
+    background-position: center;
 }
 .parallax{
 	min-height: 840px;
@@ -92,6 +94,8 @@
 
 #gallery{
 	background-image: url('img/gallery.jpg');
+	background-size: cover;
+   	background-position: center;
 }
 
 .flex-container {
